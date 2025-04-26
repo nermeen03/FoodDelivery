@@ -1,16 +1,23 @@
-# comida_food_delivery_app
+🍽️ Comida Food Delivery App (Flutter)
+Comida is a food delivery mobile application built using Flutter and inspired by the Comida UI Kit on Figma Community. It provides a modern and intuitive interface for browsing restaurants, ordering meals, and tracking deliveries.
 
-A new Flutter project.
+✨ Features
+🧭 Onboarding Flow – Smooth and attractive onboarding screens to introduce the app.
 
-## Getting Started
+🍔 Browse Restaurants & Meals – Clean UI for discovering restaurants and browsing menus.
 
-This project is a starting point for a Flutter application.
+🛒 Cart & Checkout – Simple cart management and a seamless checkout process.
 
-A few resources to get you started if this is your first Flutter project:
+📍 Order Tracking – Track your order in real time from kitchen to doorstep.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📄 Profile & Settings – Manage account info, payment methods, and delivery addresses.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌗 Dark & Light Mode – Supports both themes for better user accessibility.
+
+📱 Responsive UI – Fully responsive layout across different screen sizes.
+
+🛠️ Tech Stack
+Flutter – Cross-platform app development
+Cubit (Bloc) – Lightweight state management
+Dio / HTTP – API integration
+Figma – UI/UX Design (based on Comida UI Kit)
